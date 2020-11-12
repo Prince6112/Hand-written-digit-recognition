@@ -1,5 +1,5 @@
 # Hand-written-digit-recognition
-A mini project for Machine Learning assignment.
+A mini project for Data Science assignment.
 
 This is a 2 layers Sequential Convolutional Neural Network for digits recognition trained on MNIST dataset. It uses TensorFlow with keras API (Tensorflow backend) which is very intuitive
 
